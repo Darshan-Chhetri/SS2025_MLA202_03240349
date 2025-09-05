@@ -14,7 +14,7 @@ Q3 What does the reward represent?
     The reward is +1 for every step that the pole remains balanced. Once the pole falls or the cart moves out of bounds, the episode ends.
 
 
-
+![image alt](https://github.com/Darshan-Chhetri/SS2025_MLA202_03240349/blob/master/frozenlake_avg_and_total_reward.png?raw=true)
 
 The challenges i faced while doing this task was that there was some issue with looping and slight problems with indentation, however these issues with quickly and properly dealt with.
 
