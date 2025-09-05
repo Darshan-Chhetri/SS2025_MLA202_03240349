@@ -11,7 +11,7 @@ print(f"Observation Space: {env.observation_space}")
 # 1. RESET the environment
 # This function is called at the beginning of every new episode.
 # It returns the initial observation and some optional info.
-num_episodes = 500
+num_episodes = 1000
 rewards_per_episode = []
 for episode in range(num_episodes):
     info = env.reset() 
